@@ -3,6 +3,16 @@ entries:
   springboot-starterkit-svc:
   - apiVersion: v2
     appVersion: latest
+    created: "2022-02-04T18:17:54.415224032Z"
+    description: A Spring Boot Helm chart for Kubernetes
+    digest: 796c0ed28dea5bea291e5a57c4908a815e084086d9bca5fd48aad0874f95a736
+    name: springboot-starterkit-svc
+    type: application
+    urls:
+    - https://github.com/josephrodriguez/springboot-helm-charts/releases/download/springboot-starterkit-svc-0.1.2/springboot-starterkit-svc-0.1.2.tgz
+    version: 0.1.2
+  - apiVersion: v2
+    appVersion: latest
     created: "2022-02-02T18:17:55.605599553Z"
     description: A Helm chart for Kubernetes
     digest: 287fbd8bc85c0c9af2a013b9dd8fa5b8826c655ee10a332f0aadd803b8c15605
@@ -11,4 +21,4 @@ entries:
     urls:
     - https://github.com/josephrodriguez/springboot-helm/releases/download/springboot-starterkit-svc-0.1.1/springboot-starterkit-svc-0.1.1.tgz
     version: 0.1.1
-generated: "2022-02-02T18:17:55.605605053Z"
+generated: "2022-02-04T18:17:54.415239133Z"
