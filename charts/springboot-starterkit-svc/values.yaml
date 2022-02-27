@@ -39,7 +39,7 @@ ingress:
         pathType: Prefix
         backend:
           serviceName: springboot-starterkit-svc
-          servicePort: 8080
+          servicePort: 80
   tls: []
 
 resources: {}
